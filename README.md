@@ -5,5 +5,5 @@ layout: page
 ---
 
 ## About Me
-![Alt Text](/assets/photos/me.jpg, "A headshot of me")
+![Alt Text](https://raw.githubusercontent.com/adamtcroft/blog/assets/photos/me.jpg, "A headshot of me")
 This is some test text
