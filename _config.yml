@@ -1,4 +1,4 @@
-title: "My Personal Blog"
+title: "||| The Blog of Adam T. Croft"
 author: "Adam T. Croft"
 description: "Terrible Things"
 permalink: /:title/
@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:me@adamtcroft.com.com"}
+  - {title: Mail, icon: envelope, url: "mailto:me@adamtcroft.com"}
   - {title: Github, icon: github, url: "https://github.com/adamtcroft"}
 # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
