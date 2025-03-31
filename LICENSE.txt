@@ -1,0 +1,23 @@
+Except where otherwise noted, content on this blog is licensed under a Creative 
+Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+
+You may:
+- Share, quote, and link to content from this blog, provided you give proper 
+credit to Adam T. Croft and include a link to the original post.
+
+- Adapt, remix, or build upon the content for non-commercial purposes, as long as 
+proper attribution is given.
+
+You may not:
+- Use any content for commercial purposes (including monetized websites, books, 
+courses, or advertisements) without prior written permission from Adam T. Croft.
+
+- Misrepresent, distort, or present the content in a misleading way.
+
+For commercial use requests, please contact me directly.
+
+For full details on this license, visit:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Design and theming for this blog is credit to Niklas Buschann, provided under 
+the UNLICENSE - https://github.com/niklasbuschmann/contrast
