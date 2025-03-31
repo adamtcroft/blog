@@ -16,5 +16,7 @@ layout: page
 </ul>
 </div>
 
+<div style ="clear: both;"></div>
+
 ## More Stuff here
 This is where more stuff about me would go
