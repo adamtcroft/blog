@@ -5,7 +5,7 @@ layout: page
 ---
 
 <div>
-<img src="https://raw.githubusercontent.com/adamtcroft/blog/refs/heads/master/assets/photos/me.jpeg" alt="A photo of me" width="300px" align="left" style="margin-right:30px"/>
+<img src="https://raw.githubusercontent.com/adamtcroft/blog/refs/heads/master/assets/photos/me.jpeg" alt="A photo of me" width="325px" align="left" style="margin-right:30px"/>
 <h2>Brief Stats</h2>
 <ul>
     <li>Currently in the role of Technical Audio Lead at Bungie</li>
