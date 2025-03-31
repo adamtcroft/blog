@@ -22,7 +22,7 @@ sky</li>
 
 <div style ="clear: both;"></div>
 
-## Hey friends
+## Hey friends,
 My name's Adam, but everyone at Bungie calls me "Croft" because there's too many 
 of us Adams around.  I spend most of my professional time playing a support role 
 in the Audio department in the effort to innovate and streamline content 
