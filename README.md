@@ -36,7 +36,8 @@ out how to solve those problems _very_ quickly.
 Prior to working at Bungie, I spent time at Xbox, 343 Industries, and PopCap 
 Games.  Before games, I worked as an Audiovisual Designer drafting technology 
 systems in AutoCAD for various architects.  In ancient times, I worked as a 
-freelance audio engineer in live audio, TV, films, corporate events, and more.  
+freelance audio engineer in live audio, TV, films, corporate events, and more.
+
 Essentially, if it makes sound, I've probably been fortunate enough to be a part 
 of doing it.
 
