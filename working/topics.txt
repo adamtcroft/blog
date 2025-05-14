@@ -63,3 +63,7 @@ potential topics:
 - How I built my GoodMorning.py script
 - You don't get promoted solely from skill building
 - You should believe in yourself
+- 3 Critical Work Skills I Learned from Getting Choked Out (BJJ #1)
+	1. Being uncomfortable is temporary
+	2. You only get better though repetitive pracitce
+	3. Progress is non-linear
